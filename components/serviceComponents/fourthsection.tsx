@@ -1,4 +1,4 @@
-import { ChartColumnBig, FileCheck, Lightbulb, Rocket, Shapes, Trophy } from 'lucide-react';
+
 import React from 'react';
 
 const AboutFeatures = () => {

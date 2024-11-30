@@ -171,6 +171,7 @@ const FourthSection: React.FC = () => {
       <div
         style={{
           marginTop: "40px",
+          marginBottom: '10px',
           width: "100%",
           overflow: "hidden",
         }}
