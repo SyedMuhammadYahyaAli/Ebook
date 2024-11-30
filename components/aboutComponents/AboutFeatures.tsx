@@ -1,4 +1,4 @@
-import {Shapes} from 'lucide-react';
+
 import React from 'react';
 
 const AboutFeatures = () => {
