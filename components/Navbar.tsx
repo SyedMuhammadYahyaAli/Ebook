@@ -38,18 +38,21 @@ const Navbar = () => {
     >
       <div className="py-4 flex items-center justify-between px-4 md:px-10 lg:px-10 xl:px-20 2xl:px-40">
 
-        <div className="flex-shrink-0">
-          <Link href='/'>
-            <Image
-              src="/logo.png"
-              alt="eBook"
-              width={200}
-              height={100}
-              className="object-contain"
-              title='eBook'
-            />
-          </Link>
-        </div>
+
+
+<div className="flex-shrink-0">
+  <Link href="/">
+    <Image
+      src="/logo.png"
+      alt="eBook"
+      width={200}
+      height={100}
+      className="object-contain"
+      title="eBook"
+    />
+  </Link>
+</div>
+
 
         <div className="md:hidden">
           {!isSidebarOpen && (

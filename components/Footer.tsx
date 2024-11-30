@@ -8,13 +8,13 @@ const Footer = () => {
   return (
     <div className='bg-red-900 flex flex-col lg:flex-row px-8 lg:px-10 2xl:px-32 py-10 lg:py-20'>
       {/* Right Section */}
-      <div className='space-y-5 lg:w-1/2'>
+      <div className=''>
         <Image
           src='/footer.png'
-          alt=''
-          height={300}
           width={300}
-          // className='mx-auto lg:mx-0 w-48 h-48 lg:w-72 lg:h-72'
+          height={200}
+          alt='image'
+          className='object-contain'
         />
         <p className='text-[14px] lg:text-[16px] text-white text-center lg:text-left'>
           PEBW empowers authors to share their narratives, create impact, and foster connections.
