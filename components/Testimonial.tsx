@@ -14,10 +14,10 @@ type Review = {
 };
 
 const reviews: Review[] = [
-  { id: 1, imageUrl: '/testimonial1.png', text: 'E-book writing has transformed our content approach. The team’s expertise is unmatched, making us leaders in digital publishing.' },
-  { id: 2, imageUrl: '/testimonial2.png', text: 'A phenomenal service with skilled writers who truly understand the art of storytelling. Our brand’s voice is now clearer than ever.' },
-  { id: 3, imageUrl: '/testimonial3.png', text: 'Professional, timely, and incredibly insightful. The e-book writing service took our project to new heights and helped boost our online presence.' },
-  { id: 4, imageUrl: '/testimonial4.png', text: 'Professional, timely, and incredibly insightful. The e-book writing service took our project to new heights and helped boost our online presence.' },
+  { id: 1, imageUrl: '/testimonial1.png', text: 'From concept to completion, the team was super supportive, creative, and always on point with my vision. I couldn’t have asked for a better experience!' },
+  { id: 2, imageUrl: '/testimonial2.png', text: 'I’m beyond thrilled with the ebook you helped me create! You turned my ideas into a story I’m proud to share. Thanks a ton!' },
+  { id: 3, imageUrl: '/testimonial3.png', text: 'Working with this team was an absolute pleasure! The market research they conducted was beyond impressive! and the cover design blew me away! They actually know their stiff and do what works the best. Really impressive!' },
+  { id: 4, imageUrl: '/testimonial4.png', text: 'I was so nervous about ghostwriting, but your team made me feel comfortable and involved. The final product truly feels like mine.' },
 ];
 
 const Testimonial = () => {

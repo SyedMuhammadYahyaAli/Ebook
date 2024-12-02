@@ -12,8 +12,8 @@ const Story = () => {
       />
 
       <div className="relative z-10 p-10 text-center space-y-5">
-        <h2 className="text-red-500  font-bold text-[26px] lg:text-[28px]">ENTER THE WORLD OF STORYTELLING</h2>
-        <h3 className='text-white text-[22px] lg:text-[24px]'>Become a writing virtuoso</h3>
+        <h2 className="text-red-500  font-bold text-[26px] lg:text-[28px]">Publish Your Ebook for Less!</h2>
+        <h3 className='text-white text-[22px] lg:text-[24px]'>Publish Your Ebook for Less!</h3>
         <p className='text-white text-[14px] lg:text-[16px]'>
           Call Us 1-254-964-9543
         </p>

@@ -30,10 +30,11 @@ const Ghost = () => {
     <div className=" px-4 lg:px-20 xl:px-32 py-10">
       <div className="text-start mb-10">
         <h2 className="text-[26px] lg:text-[28px] font-bold mb-2">
-          Our eBook Ghostwriting Service Has <span className="text-red-500">Delivered 9000+</span> Orders So Far
+        The Leading <span className="text-red-500">Ebook Writing Company</span> With A Record of 5000+ Successful Ebook Projects!
         </h2>
         <p className='text-[14px] lg:text-[16px]'>
-          Tap expert writers and a partner who gets modern content marketing. In a sea of sameness, stand out in search with our E-book writing Service.
+        Having completed over 5000 ebook projects, our ebook ghostwriters bring vast experience to the table, combining skill, and creativity to deliver high-quality work worldwide.
+
         </p>
       </div>
 

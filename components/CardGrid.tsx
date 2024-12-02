@@ -5,33 +5,33 @@ const Features = () => {
     const features = [
         {
             icon: '/card1.jpeg',
-            title: 'Book Writing',
-            description: 'Our expert writing crew is available to meet your every demand.'
+            title: 'Ebook Writing',
+            description: 'Just share your ideas, and we’ll create a story readers won’t want to put down! Every chapter is thoughtfully written, keeping the narrative alive.'
         },
         {
             icon: '/card2.jpeg',
-            title: 'At Your Service, Anytime',
-            description: 'Working past sunset? No problem, we’re here for that. We offer 24/7 support so you can reach us whenever inspiration—or panic—strikes. Your success never sleeps, and neither do we!'
+            title: 'Ebook Editing',
+            description: 'We refine your manuscript, perfecting flow, tone, and clarity to ensure your ebook resonates deeply with readers and keeps them hooked.'
         },
         {
             icon: '/card3.jpeg',
-            title: 'Budget-Friendly Brilliance',
-            description: 'We get it—budgets are tight. That’s why we’ve kept our pricing super reasonable. Exceptional business proposal writing service providers deliver top-quality without leaving your wallet crying in the corner.'
+            title: 'Ebook Proofreading',
+            description: 'We catch every tiny typo and grammar glitch! Our proofreaders comb through your ebook, making it look perfect and professional.'
         },
         {
             icon: '/card4.jpeg',
-            title: 'Made Just for ‘You!’',
-            description: 'No two businesses are the same, so why should your plan be? With our expert help writing a business proposal, every plan is custom-crafted to meet your specific needs. Consider us the tailors of the business world—perfect fit, every time.'
+            title: 'Ebook Cover Design',
+            description: 'Your cover is your first impression, and we make it count! Our designs capture your ebook’s vibe, making it irresistible to potential readers.'
         },
         {
             icon: '/card5.jpeg',
-            title: 'Perfection in Every Word',
-            description: 'We don’t just stop at writing; we fine-tune, polish, and perfect every word. With our comprehensive business proposal writing services, we go the extra mile with detailed editing and proofreading.'
+            title: 'Ebook Publication',
+            description: 'We manage the whole publishing process, ensuring your ebook is formatted and ready for distribution across major platforms with ease.'
         },
         {
             icon: '/card4.jpeg',
-            title: 'Market Research Magic',
-            description: 'Want to create a killer business plan? We dig deep into your market, uncovering juicy insights on competitors, trends, and customer behaviors, ensuring your plan isn’t just solid—it’s bulletproof.'
+            title: 'Ebook Marketing',
+            description: 'We get your ebook noticed! Our marketing pros know how to hit your target audience, boost visibility, and create lasting buzz for your work.'
         }
     ];
 

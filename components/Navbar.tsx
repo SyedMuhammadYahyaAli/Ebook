@@ -66,10 +66,10 @@ const Navbar = () => {
         </div>
 
         <div className="hidden md:flex space-x-4 lg:space-x-4 xl:space-x-12">
-          <Link href="/about" className="text-sm lg:text-base xl:text-xl font-medium hover:text-[#124680]">About Us</Link>
-          <Link href="/contact" className="text-sm lg:text-base xl:text-xl font-medium hover:text-[#124680]">Contact Us</Link>
-          <Link href="services" className="text-sm lg:text-base xl:text-xl font-medium hover:text-[#124680]">Services</Link>
-          <Link href="/" className="text-sm lg:text-base xl:text-xl font-medium hover:text-[#124680]">Blogs</Link>
+          <Link href="/about" className="text-sm lg:text-base xl:text-xl font-medium hover:text-[#802312]">About Us</Link>
+          <Link href="/contact" className="text-sm lg:text-base xl:text-xl font-medium hover:text-[#802812]">Contact Us</Link>
+          <Link href="services" className="text-sm lg:text-base xl:text-xl font-medium hover:text-[#801f12]">Services</Link>
+          <Link href="/" className="text-sm lg:text-base xl:text-xl font-medium hover:text-[#801912]">Blogs</Link>
         </div>
 
         {!isSidebarOpen && (

@@ -9,7 +9,7 @@ const Contact = () => {
       {/* Text */}
       <div className='lg:py-10 flex-1'>
         <h2 className='text-white font-bold max-w-xl text-[26px] lg:text-[28px]'>
-          Love to Hear From You Get In Touch <motion.span
+        We're Ready Whenever You Are <motion.span
             animate={{
               rotate: [-20, 20],
             }}
@@ -26,7 +26,8 @@ const Contact = () => {
 
         </h2>
         <p className='text-white text-[14px] lg:text-[16px] pt-6 lg:pt-10 2xl:pt-8 2xl:w-[1000px]'>
-          Tap expert writers and a partner who gets modern content marketing. In a sea of sameness, stand out in search with E-book writing Service.
+        Our team of expert writers, designers, and marketers is available at your service 24/7. Connect with us today to discuss your ideas and launch your ebook with confidence! 
+
         </p>
       </div>
 

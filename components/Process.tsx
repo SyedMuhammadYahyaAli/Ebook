@@ -7,10 +7,11 @@ const Process = () => {
     <div className='px-4 md:px-10 xl:px20 py-20 space-y-10'>
       <div className="w-full md:w-1/2 mx-auto text-center">
   <h2 className="text-[26px] lg:text-[28px] font-bold pb-5">
-    Our <span className="text-red-500">Unbeatable</span> Process
+  Approach to Deliver the <span className="text-red-500">Best Ebook Ghostwriting Services
+  </span>
   </h2>
   <p className="text-[14px] lg:text-[16px]">
-    At The Nation Publishers, we&apos;re known for delivering top-notch content writing services. Now, you can dive into the perks of our ghostwriting service too! There are plenty of areas where you can tap into our expertise to get high-quality content. Let&apos;s get started!
+  At our USA's leading ebook writing agency, we follow a streamlined process that ensures each step meets your vision and maintains industry standards. Here’s how our approach works to deliver a seamless, engaging ebook that resonates with readers and stands out in the marketplace.
   </p>
 </div>
 
@@ -25,8 +26,10 @@ const Process = () => {
             <div className='flex gap-4 items-center'>
               <h3 className='font-bold text-[22px] lg:text-[24px]'><FaBookReader /></h3>
               <div className='flex flex-col'>
-                <h3 className='font-bold text-[22px] lg:text-[24px]'><span className='text-red-500'>Creative</span> Writing</h3>
-                <p className='text-[14px] lg:text-[16px]'>Engage in the art of expression through creative writing. Unleash your thoughts and emotions, creating a world of words that reflects your unique perspective and imagination.</p>
+                <h3 className='font-bold text-[22px] lg:text-[24px]'><span className='text-red-500'>Initial Chat  
+                </span> & Order Placement </h3>
+                <p className='text-[14px] lg:text-[16px]'>We start with a friendly chat to understand your ebook’s purpose, genre, and goals. Then, we provide a customized quote and get started after the initial payment.
+                </p>
               </div>
             </div>
           </div>
@@ -36,8 +39,9 @@ const Process = () => {
             <div className='flex gap-4 items-center'>
               <h3 className='font-bold text-[22px] lg:text-[24px]'><FaBookReader /></h3>
               <div className='flex flex-col'>
-                <h3 className='font-bold text-[22px] lg:text-[24px]'><span className='text-red-500'>Focusing,</span> Focusing</h3>
-                <p className='text-[14px] lg:text-[16px]'>Cultivate mindfulness through focusing techniques, meditation, and breathwork. Elevate your awareness, reduce stress, and foster a sense of inner calm to enhance overall well-being.</p>
+                <h3 className='font-bold text-[22px] lg:text-[24px]'><span className='text-red-500'>Consultation </span>& Planning</h3>
+                <p className='text-[14px] lg:text-[16px]'>In a detailed consultation, we outline your ebook’s structure, tone, and content objectives. This planning phase helps us capture your unique voice and vision accurately.
+                </p>
               </div>
             </div>
           </div>
@@ -47,8 +51,10 @@ const Process = () => {
             <div className='flex gap-4 items-center'>
               <h3 className='font-bold text-[22px] lg:text-[24px]'><FaBookReader /></h3>
               <div className='flex flex-col'>
-                <h3 className='font-bold text-[22px] lg:text-[24px]'><span className='text-red-500'>Spirituality,</span> Psychology, Effective Communication</h3>
-                <p className='text-[14px] lg:text-[16px]'>Explore the connection between spirituality and psychology. Enhance your understanding of self and others.</p>
+                <h3 className='font-bold text-[22px] lg:text-[24px]'><span className='text-red-500'>Market Research &</span> Niche Analysis
+                </h3>
+                <p className='text-[14px] lg:text-[16px]'>We conduct in-depth market research and audience analysis to enhance your ebook’s relevance and appeal. Your content will fit seamlessly into the targeted niche.
+                </p>
               </div>
             </div>
           </div>
@@ -67,8 +73,10 @@ const Process = () => {
             <div className='flex gap-4 items-center'>
               <h3 className='font-bold text-[22px] lg:text-[24px]'><FaBookReader /></h3>
               <div className='flex flex-col'>
-                <h3 className='font-bold text-[22px] lg:text-[24px]'><span className='text-red-500'>ADHD</span>/ Executive Functions</h3>
-                <p className='text-[14px] lg:text-[16px]'>Navigate the challenges of ADHD and enhance executive functions. Discover effective strategies to manage time, stay organized, and optimize cognitive abilities for improved daily functioning.</p>
+                <h3 className='font-bold text-[22px] lg:text-[24px]'><span className='text-red-500'>Writing, Designing</span>& Refining
+                </h3>
+                <p className='text-[14px] lg:text-[16px]'>Our team writes, designs, and refines each part of your ebook. Every detail is crafted to hook readers, ensuring perfection and guaranteeing the most optimum results.
+                </p>
               </div>
             </div>
           </div>
@@ -78,8 +86,9 @@ const Process = () => {
             <div className='flex gap-4 items-center'>
               <h3 className='font-bold text-[22px] lg:text-[24px]'><FaBookReader /></h3>
               <div className='flex flex-col'>
-                <h3 className='font-bold text-[22px] lg:text-[24px]'><span className='text-red-500'>Creativity</span> and Meaningful Work</h3>
-                <p className='text-[14px] lg:text-[16px]'>Integrate creativity into your professional life for meaningful work experiences. Uncover innovative solutions.</p>
+                <h3 className='font-bold text-[22px] lg:text-[24px]'><span className='text-red-500'>Formatting for</span>  Multiple Platforms</h3>
+                <p className='text-[14px] lg:text-[16px]'>We format your ebook for platforms like Kindle and Apple Books, ensuring it looks fit on all devices and offers a hassle-free reading experience with zero glitches.
+                </p>
               </div>
             </div>
           </div>
@@ -89,8 +98,9 @@ const Process = () => {
             <div className='flex gap-4 items-center'>
               <h3 className='font-bold text-[22px] lg:text-[24px]'><FaBookReader /></h3>
               <div className='flex flex-col'>
-                <h3 className='font-bold text-[22px] lg:text-[24px]'><span className='text-red-500'>ADHD,</span>/ Executive Functions Effective Communication</h3>
-                <p className='text-[14px] lg:text-[16px]'>Navigate the challenges of ADHD and enhance executive functions. Discover effective strategies to manage time, stay organized, and optimize cognitive abilities for improved daily functioning.</p>
+                <h3 className='font-bold text-[22px] lg:text-[24px]'><span className='text-red-500'>Post-Launch Suppor,</span> & Feedback</h3>
+                <p className='text-[14px] lg:text-[16px]'>Post-launch, our team is available for support, feedback collection, and updates. We’re committed to maximizing your ebook’s success beyond creation & publication.
+                </p>
               </div>
             </div>
           </div>

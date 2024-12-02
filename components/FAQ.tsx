@@ -9,11 +9,11 @@ type FAQItem = {
 };
 
 const faqItems: FAQItem[] = [
-  { question: 'Question 1', answer: 'Answer to question 1 goes here...' },
-  { question: 'Question 2', answer: 'Answer to question 2 goes here.' },
-  { question: 'Question 3', answer: 'Answer to question 3 goes here.' },
-  { question: 'Question 4', answer: 'Answer to question 4 goes here.' },
-  { question: 'Question 5', answer: 'Answer to question 5 goes here.' },
+  { question: 'What types of ebooks do you write?', answer: 'We write ebooks across a wide range of genres, including fiction (romance, thrillers, fantasy, etc.), non-fiction (business, self-help, education, etc.), and specialized subjects like health, technology, and personal development. Whether you need an engaging story, informative guide, or expert insight, our team is well-versed in tackling the delicacies and specifications. ' },
+  { question: 'How long does the ebook writing process take? ', answer: 'The timeline for writing an ebook depends on factors such as the complexity of the topic, length, and your specific requirements. Generally, the process takes between 4 to 8 weeks, which includes writing, editing, proofreading, and formatting. We work with you to ensure the timeline aligns with your goals and deliverables.' },
+  { question: 'What are the credentials of your ghost ebook writers?', answer: 'Our ebook ghost writers are highly qualified professionals with a range of backgrounds, including published authors, experts in various industries, and former faculty members of top universities. They have extensive experience in writing ebooks across different genres and are dedicated to producing high-quality, engaging content according to your vision and requirements.' },
+  { question: 'Do you claim any ownership over the ebooks you write?', answer: 'No, we do not claim any ownership or rights to the ebooks we write. Once the project is completed and paid for, full ownership rights belong to you, the author. We respect your intellectual property, and all content is created specifically for you under our ghostwriting services. Your ebook is exclusively yours.' },
+  { question: 'What is the payment process? ', answer: 'Our payment process is simple and transparent. We typically require an initial deposit to begin work on your ebook, with the remaining balance due upon completion. Payments can be made via bank transfer or Papal. We provide a customized quote based on the scope of your project before any work begins.' },
 ];
 
 const FAQ = () => {
