@@ -5,11 +5,12 @@ const FifthSection = () => {
     <section className="flex flex-col lg:flex-row mt-12 md:mt-4 gap-10 md:gap-20 items-center justify-center md:px-0 bg-[#f8f8f7] py-1">
       {/* Text Content */}
       <div className="flex flex-col justify-center items-center w-full lg:w-1/2 text-center">
-        <div className="max-w-full lg:max-w-5xl">
+        <div className="max-w-full lg:max-w-5xl mb-4">
           <h1 className="text-[36px] sm:text-[48px] md:text-[60px] font-bold text-[#000000] leading-tight">
-            Take <span className="text-red-500">Your Projects</span>{" "}
+          Trust Us to 
+          <span className="text-red-500"> Showcase Your Ebook at </span>{" "}
             <span className="text-black-500">
-              To The Next Level With Our Experts
+            Its Absolute Best
             </span>
           </h1>
 

@@ -8,11 +8,12 @@ const SixthSection = () => {
       <div className="flex flex-col justify-center w-full lg:w-1/2 md:p-10 text-center lg:text-left pt-12">
         <div className="max-w-full lg:max-w-5xl">
         <span className="xl:text-[28px] text-[28px] md:text-[36px] font-bold text-white leading-tight lg:text-[24px] mt-7 pt-4">
-            Love to Hear From You Get In Touch 👋
+        We're Ready Whenever You Are 👋
         </span>
 
           <p className="text-white mt-4 text-[14px] lg:text-[16px]">
-            Tap expert writers and a partner who gets modern content marketing. In a sea of sameness, stand out in search with E-book writing Service.
+          Our team of expert writers, designers, and marketers is available at your service 24/7. Connect with us today to discuss your ideas and launch your ebook with confidence! 
+
           </p>
         </div>
       </div>

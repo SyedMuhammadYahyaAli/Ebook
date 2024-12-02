@@ -46,11 +46,12 @@ const FourthSection: React.FC = () => {
           border: "none",
           marginBottom: "20px",
           width: "80%",
-          maxWidth: "420px",
+          maxWidth: "720px",
           height: "auto",
         }}
       >
-        MEET OUR TEAM
+       The Faces Behind Your Next Bestselling Ebook
+
       </button>
 
       {/* Responsive Paragraph */}
@@ -64,10 +65,8 @@ const FourthSection: React.FC = () => {
           marginRight: "auto",
         }}
       >
-        Reach out to our team at Britain Bookwriting, and we will ensure to
-        deliver you an excellent, error-free eBook version of your fantastic
-        work. We promise that our low-cost eBooks will excel in quality while
-        staying true to your unique needs.
+        Meet the legends behind the scenes! Our ebook experts aren’t just writers—they’re creative thinkers who turn ideas into unforgettable stories. From shaping spellbinding plots to nailing that perfect tone, they’ve got the skills to make your ebook a showstopper. Ready to meet the squad that’s about to make your bestseller dreams come true? Let’s go!
+
       </p>
 
       {/* Carousel Wrapper */}

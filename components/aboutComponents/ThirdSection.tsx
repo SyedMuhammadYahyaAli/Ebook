@@ -11,11 +11,13 @@ const ThirdSection = () => {
         <div className="max-w-full lg:max-w-5xl">
 
           <h2 className="xl:text-[50px] text-[32px] md:text-[36px] font-bold text-white leading-tight lg:text-[24px] mt-0 ml-4">
-            Bring Your Book to The Front of The Shelf
+          Let's Turn Your Ebook Into a Page-Turning Sensation
+
           </h2>
 
           <p className="text-white mt-4 py-4 text-[14px] lg:text-[20px] ml-8">
-            Our experiments translate ideas into hot-selling books. Book an appointment today.
+          Place your order now to make your Ebook a crowd-puller with stunning designs, striking words, and a flawless finish that commands attention.
+
           </p>
 
           {/* Buttons */}

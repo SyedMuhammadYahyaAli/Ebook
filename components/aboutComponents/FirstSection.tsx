@@ -9,13 +9,13 @@ const FirstSection = () => {
         <div className="max-w-full">
           {/* Heading */}
           <h1 className="text-[24px] sm:text-[28px] md:text-[60px] font-bold text-[#010405] leading-tight m-0 p-0">
-  Learn About Our <span className="text-red-500 block">Expertise</span>
-</h1>
+          Get to Know  <span className="text-red-500 ">Us </span></h1>
 
 
           {/* Description */}
           <p className="text-[#0c0304] mt-4 text-[18px] sm:text-[16px] lg:text-[18px] leading-relaxed">
-            Get connected with our panel of qualified authors and ghostwriters for hire to draw readers' attention and embark on a prosperous online journey ghostwriters for hire to draw readers' attention and embark on a prosperous online journey.
+          We're passionate pros who turn scratch ideas into stories that pop. No boring stuff here—just fresh, creative vibes and a whole lot of passion for what we do. Ready to create something epic?  Let's team up and make your ebook the next big thing!
+
           </p>
           {/* Buttons */}
           <div className="flex flex-col sm:flex-row sm:space-x-4 mt-4 space-y-4 sm:space-y-0">
