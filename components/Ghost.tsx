@@ -23,6 +23,11 @@ const images = [
   { src: '/book13.png', alt: 'book13' },
   { src: '/book14.png', alt: 'book14' },
   { src: '/book15.png', alt: 'book15' },
+  { src: '/book16.png', alt: 'book16' },
+  { src: '/book17.png', alt: 'book17' },
+  { src: '/book18.png', alt: 'book18' },
+  { src: '/book19.png', alt: 'book19' },
+
 ];
 
 const Ghost = () => {
