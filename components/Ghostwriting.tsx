@@ -22,6 +22,13 @@ const slides: Slide[] = [
   { id: 10, title: 'Title 3', subtitle: 'Subtitle 3', src: '/side-book10.png' },
   { id: 11, title: 'Title 3', subtitle: 'Subtitle 3', src: '/side-book11.png' },
   { id: 12, title: 'Title 3', subtitle: 'Subtitle 3', src: '/side-book12.png' },
+  { id: 13, title: 'Title 3', subtitle: 'Subtitle 3', src: '/side-book12.png' },
+  { id: 14, title: 'Title 3', subtitle: 'Subtitle 3', src: '/side-book12.png' },
+  { id: 15, title: 'Title 3', subtitle: 'Subtitle 3', src: '/side-book12.png' },
+  { id: 16, title: 'Title 3', subtitle: 'Subtitle 3', src: '/side-book12.png' },
+  { id: 17, title: 'Title 3', subtitle: 'Subtitle 3', src: '/side-book12.png' },
+  { id: 18, title: 'Title 3', subtitle: 'Subtitle 3', src: '/side-book12.png' },
+  { id: 19, title: 'Title 3', subtitle: 'Subtitle 3', src: '/side-book12.png' },
 ];
 
 
