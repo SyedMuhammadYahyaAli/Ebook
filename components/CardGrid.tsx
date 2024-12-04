@@ -41,23 +41,23 @@ const Features = () => {
                 
 
                 <div>
-                    <h2 className='text-[26px] lg:text-[28px] font-bold mb-5'>OUR <span className='text-red-500'>SERVICES</span></h2>
+                    <h2 className='text-[32px] lg:text-[36px] font-bold mb-5'>OUR <span className='text-red-500'>SERVICES</span></h2>
                     <p className='w-auto lg:w-1/2 text-[14px] lg:text-[16px]'>Tap expert writers and a partner who gets modern content marketing. In a sea of sameness, stand out in search with E-book writing Service</p>
                 </div>
 
-                <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 mt-10 mx-auto max-w-[1600px]'>
+                <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 mt-10 mx-auto max-w-[1400px]'>
                     {features.map((feature, index) => (
                         <div
                             key={index}
-                            className='flex flex-col items-start shadow-lg rounded-lg bg-black hover:bg-red-950 text-white overflow-hidden'
+                            className='flex flex-col items-start shadow-lg bg-black hover:bg-red-950 text-white overflow-hidden'
                         >
                             <Image
                                 src={feature.icon}
                                 alt={`${feature.title} icon`}
                                 layout="responsive"
-                                width={500} 
-                                height={250} 
-                                className='w-full'
+                                width={100} 
+                                height={100} 
+                                className='max-h-52'
                             />
                             <div className='p-6'>
                                 <span className='font-bold text-xl mb-2 text-start block'>

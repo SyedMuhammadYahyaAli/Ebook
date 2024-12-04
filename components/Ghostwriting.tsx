@@ -35,11 +35,11 @@ const slides: Slide[] = [
 
 const Ghostwriting = () => {
   return (
-    <div className='mx-4 sm:mx-8 2xl:mx-32 pt-20 flex'>
+    <div className='mx-4 sm:mx-8 2xl:mx-32 pt-20 flex gap-20'>
       {/* left */}
-      <div className='w-[1200px] space-y-8'>
+      <div className='w-[1000px] space-y-8'>
 
-        <h2 className='text-[26px] lg:text-[28px] font-bold'>
+        <h2 className='text-[34px] lg:text-[36px] font-bold'>
         USA’s Top <span className='text-red-500'>Ebook Writing Agency</span>Creative and Expert-Driven
 
         </h2>
@@ -48,17 +48,17 @@ const Ghostwriting = () => {
         <p className='text-[14px] lg:text-[16px]'>We’re here to make the process easy, creative, and fun. From the first spark of an idea to the final, polished manuscript, we work closely with you to ensure everything is aligned perfectly with your requirements. Our vision is simple – to help you achieve ebook success with a service that’s built on creativity, expertise, and a deep passion for storytelling. Let’s create something amazing together!
         </p>
         
-        <h2 className='text-[26px] lg:text-[28px] font-bold'>
+        <h2 className='text-[34px] lg:text-[36px] font-bold'>
         How Do <span className='text-red-500'> We Instill Excellence 
         </span> in Every Page?
         </h2>
         <p className='text-[14px] lg:text-[16px]'>At EbookWritingStudio, we believe that excellence in ebook creation is more than just a goal—it’s our standard. Each page we craft is infused with dedication to quality, precision, and originality. Our approach focuses on delivering an excpetional ebook writing service that stands out in the crowded digital marketplace. Whether you are a first-time author or a seasoned writer, our team of experts is here to ensure your work exceeds expectations. Here’s how we achieve this:
         </p>
         <p className='text-[14px] lg:text-[16px]'>When you hire an ebook writer from EbookWritingStudio, you can be sure that your content will be well-organized and properly formatted for readability across all devices. Structural precision is at the heart of our services. Every chapter flows seamlessly into the next, with carefully designed formatting that makes your ebook look polished and professional. 
-We've the best ebook writers for hire who take the time to ensure that headers, subheadings, and paragraphs are appropriately spaced and aligned, following the best practices for ebooks across platforms like Kindle, Apple Books, and PDF formats. This structural expertise ensures your readers can engage with your content effortlessly. When you outsource ebook writing to us, we ensure that each project is formatted for optimum reading experience, meeting the highest standards of the ebook industry. 
+We&apos;ve the best ebook writers for hire who take the time to ensure that headers, subheadings, and paragraphs are appropriately spaced and aligned, following the best practices for ebooks across platforms like Kindle, Apple Books, and PDF formats. This structural expertise ensures your readers can engage with your content effortlessly. When you outsource ebook writing to us, we ensure that each project is formatted for optimum reading experience, meeting the highest standards of the ebook industry. 
 </p>
         
-        <h2 className='text-[26px] lg:text-[28px] font-bold'>
+        <h2 className='text-[34px] lg:text-[36px] font-bold'>
         Hire an <span className='text-red-500'>Our Pricing Respects</span>  Every Budget!
         </h2>
         <p className='text-[14px] lg:text-[16px]'>We believe that everyone deserves access to high-quality ebook services, so our pricing is designed to be inclusive. We’re all about clear communication and honest pricing. Our services provide full cost transparency, making it easy to know what goes into crafting your ebook. From planning the story and its writer to final editing, we make sure you understand our process and get excellent value for your investment.Whether want to hire a pdf ebook writer to help writing an ebook or looking to outsource a service, we’re ready to deliver the best possible solutions without a heft price tag. 
@@ -67,19 +67,19 @@ We've the best ebook writers for hire who take the time to ensure that headers, 
         Our flexible payment options give you peace of mind and convenience. We offer staggered payment plans that allow you to pay over time, so you can start on your project now with an initial upfront payment. The remaining amount is settled before delivery. Whether you’re looking for fast, freelance support in Seattle or custom ebook creation elsewhere, our payment options are designed to meet your needs with ease.
         </p>
 
-        <h2 className='text-[26px] lg:text-[28px] font-bold'>
+        <h2 className='text-[34px] lg:text-[36px] font-bold'>
         Instant Support <span className='text-red-500'>No Waiting Around!
         </span> 
         </h2>
-        <p className='text-[14px] lg:text-[16px]'>At EbookWritingStudio, we know how important it is to have support right when you need it. That's why we're here 24/7 to listen to and resolve your concerns. Our customer support experts can walk you through our services, pricing, timelines, and any other questions you have, so you feel confident in every decision you make. 
+        <p className='text-[14px] lg:text-[16px]'>At EbookWritingStudio, we know how important it is to have support right when you need it. That&apos;s why we&apos;re here 24/7 to listen to and resolve your concerns. Our customer support experts can walk you through our services, pricing, timelines, and any other questions you have, so you feel confident in every decision you make. 
         </p>
         <p className='text-[14px] lg:text-[16px]'>Whether it’s answering a question about your first draft, offering editing help, or providing marketing insights for your launch, our team is committed to making your experience with EbookWritingStudio smooth and enjoyable. Whether you’re new to ebook writing or a seasoned pro, you don’t have to wonder “if there are any ebook writing workshops near me”—our team is here, ready to support you directly and instantly. We offer free consultations with absolutely no waiting time. Reach out to us anytime, and get the assistance without unnecessary delays.
         </p>
 
       </div>
       {/* right */}
-<div className='hidden lg:block h-[1800px] xl:h-[1500px] w-[800px] bg-gray-900 rounded-lg ml-10 relative overflow-hidden'>
-  <div className="flex flex-col animate-scroll-vertical h-[200%] space-y-[500px]">
+<div className='hidden lg:block h-[1800px] xl:h-[1800px] w-[600px] bg-gray-900 rounded-lg ml-20 relative overflow-hidden'>
+  <div className="flex flex-col animate-scroll-vertical h-[200%] space-y-[200px] xl:space-y-[300px] 2xl:space-y-[500px]">
     {slides.map((slide) => (
       <div
         key={slide.id}
