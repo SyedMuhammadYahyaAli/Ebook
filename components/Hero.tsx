@@ -29,7 +29,7 @@ const Hero = () => {
       {/* Image */}
       <div className="lg:w-1/2 w-full flex justify-center lg:justify-end">
         <Image
-          src="/heroimage.png"
+          src="/Mask_group.png"
           alt="book"
           height={500}
           width={500}

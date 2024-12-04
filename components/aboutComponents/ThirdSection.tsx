@@ -46,7 +46,7 @@ const ThirdSection = () => {
       <div className="w-full lg:w-1/3 flex justify-center items-center mb-8 md:mb-4 ">
         <div className="w-full max-w-[600px]">
           <Image
-            src="/about2.png"
+            src="/Mask_group.png"
             alt="writing"
             layout="responsive"
             width={700}
