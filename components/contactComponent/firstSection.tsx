@@ -225,7 +225,7 @@ const ContactForm = () => {
       <div className="w-full 2xl:w-1/2 2xl:h-[650px] mt-8 lg:mt-0 lg:ml-8 flex-grow lg:max-w-3xl 2xl:mr-28">
         <div className="hidden lg:block mt-24">
           <Image 
-            src='/Mask.png'
+            src='/Mask_group.png'
             alt='our team'
             width={500}
             height={500}
