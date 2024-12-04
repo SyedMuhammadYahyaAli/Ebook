@@ -5,11 +5,11 @@ import { FaArrowRightLong } from 'react-icons/fa6';
 
 const Contact = () => {
   return (
-    <div className='flex flex-col lg:flex-row bg-black px-8 sm:px-4 lg:px-8 xl:px-32 2xl:px-40 py-10 lg:py-20 2xl:py-24'>
+    <div className='flex flex-col lg:flex-row bg-black px-8 sm:px-4 lg:px-8 xl:px-32 2xl:px-20 py-10 lg:py-20 2xl:py-24'>
       {/* Text */}
       <div className='lg:py-10 flex-1'>
-        <h2 className='text-white font-bold max-w-xl text-[26px] lg:text-[28px]'>
-        We're Ready Whenever You Are <motion.span
+        <h2 className='text-white font-bold max-w-[400px] text-[34px] lg:text-[36px]'>
+        We&apos;re Ready Whenever You Are <motion.span
             animate={{
               rotate: [-20, 20],
             }}
@@ -25,7 +25,7 @@ const Contact = () => {
           </motion.span>
 
         </h2>
-        <p className='text-white text-[14px] lg:text-[16px] pt-6 lg:pt-10 2xl:pt-8 2xl:w-[1000px]'>
+        <p className='text-white text-[14px] lg:text-[16px] pt-6 lg:pt-10 2xl:pt-8 max-w-[700px]'>
         Our team of expert writers, designers, and marketers is available at your service 24/7. Connect with us today to discuss your ideas and launch your ebook with confidence! 
 
         </p>
@@ -33,7 +33,7 @@ const Contact = () => {
 
       {/* Form */}
       <div className='flex justify-start items-start lg:justify-center lg:items-center flex-1 mt-4 lg:mt-0 lg:mb-20 2xl:mb-0'>
-        <form className='w-full max-w-lg 2xl:max-w-4xl 2xl:px-12'>
+        <form className='w-full max-w-lg 2xl:max-w-6xl 2xl:px-0'>
           <div className="flex flex-col lg:flex-row gap-4 mb-4 2xl:gap-6">
             <div className="relative group flex-1">
               <input
@@ -61,7 +61,8 @@ const Contact = () => {
               />
               <label
                 htmlFor="phone"
-                className="absolute left-4 top-3 2xl:left-6 2xl:top-3 text-white transition-all duration-300 transform -translate-y-1 scale-100 pointer-events-none peer-focus:-translate-y-6 peer-focus:scale-75 peer-focus:bg-black peer-focus:text-teal-400 group-hover:text-teal-400 group-hover:bg-black"
+                className="absolute left-4 top-3 2xl:left-6 2xl:top-3 text-white transition-all duration-300 transform -translate-y-1 scale-100 
+                pointer-events-none peer-focus:-translate-y-6 peer-focus:scale-75 peer-focus:bg-black peer-focus:text-teal-400 group-hover:text-teal-400 group-hover:bg-black"
               >
                 Phone Number
               </label>
