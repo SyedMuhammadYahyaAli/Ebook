@@ -1,5 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
+import { CiBookmarkCheck } from 'react-icons/ci'
 import { FaBookReader } from 'react-icons/fa'
 
 const Process = () => {
@@ -17,14 +18,14 @@ const Process = () => {
 
 
       {/* Grid layout for cards and image */}
-      <div className='grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-5 px-0 md:px-3 xl:px-10 2xl:ml-10'>
+      <div className='grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-5 px-0 md:px-3 xl:px-10 2xl:ml-10 ml-20 sm:ml-0'>
         
         {/* Left Column Cards */}
         <div className='space-y-10'>
           {/* Card 1 */}
           <div className='bg-black text-white px-4 py-8 w-full h-[250px] flex items-center justify-center max-w-96'>
             <div className='flex gap-4 items-center'>
-              <h3 className='font-bold text-[22px] lg:text-[24px]'>01</h3>
+              <h3 className='font-bold text-[22px] lg:text-[24px]'><CiBookmarkCheck /></h3>
               <div className='flex flex-col'>
                 <h3 className='font-bold text-[22px] lg:text-[24px]'><span className='text-red-500'>Initial Chat  
                 </span> & Order Placement </h3>
@@ -37,7 +38,7 @@ const Process = () => {
           {/* Card 2 */}
           <div className='bg-black text-white px-4 py-8 w-full h-[250px] flex items-center justify-center max-w-96'>
             <div className='flex gap-4 items-center'>
-              <h3 className='font-bold text-[22px] lg:text-[24px]'>03</h3>
+              <h3 className='font-bold text-[22px] lg:text-[24px]'><CiBookmarkCheck /></h3>
               <div className='flex flex-col'>
                 <h3 className='font-bold text-[22px] lg:text-[24px]'><span className='text-red-500'>Consultation </span>& Planning</h3>
                 <p className='text-[14px] lg:text-[16px]'>In a detailed consultation, we outline your ebook’s structure, tone, and content objectives. This planning phase helps us capture your unique voice and vision accurately.
@@ -49,7 +50,7 @@ const Process = () => {
           {/* Card 3 */}
           <div className='bg-black text-white px-4 py-8 w-full h-[250px] flex items-center justify-center max-w-96'>
             <div className='flex gap-4 items-center'>
-              <h3 className='font-bold text-[22px] lg:text-[24px]'>05</h3>
+              <h3 className='font-bold text-[22px] lg:text-[24px]'><CiBookmarkCheck /></h3>
               <div className='flex flex-col'>
                 <h3 className='font-bold text-[22px] lg:text-[24px]'><span className='text-red-500'>Market Research &</span> Niche Analysis
                 </h3>
@@ -71,7 +72,7 @@ const Process = () => {
           {/* Card 4 */}
           <div className='bg-black text-white px-4 py-8 w-full h-[250px] flex items-center justify-center max-w-96'>
             <div className='flex gap-4 items-center'>
-              <h3 className='font-bold text-[22px] lg:text-[24px]'>02</h3>
+              <h3 className='font-bold text-[22px] lg:text-[24px]'><CiBookmarkCheck /></h3>
               <div className='flex flex-col'>
                 <h3 className='font-bold text-[22px] lg:text-[24px]'><span className='text-red-500'>Writing, Designing</span>& Refining
                 </h3>
@@ -84,7 +85,7 @@ const Process = () => {
           {/* Card 5 */}
           <div className='bg-black text-white px-4 py-8 w-full h-[250px] flex items-center justify-center max-w-96'>
             <div className='flex gap-4 items-center'>
-              <h3 className='font-bold text-[22px] lg:text-[24px]'>04</h3>
+              <h3 className='font-bold text-[22px] lg:text-[24px]'><CiBookmarkCheck /></h3>
               <div className='flex flex-col'>
                 <h3 className='font-bold text-[22px] lg:text-[24px]'><span className='text-red-500'>Formatting for</span>  Multiple Platforms</h3>
                 <p className='text-[14px] lg:text-[16px]'>We format your ebook for platforms like Kindle and Apple Books, ensuring it looks fit on all devices and offers a hassle-free reading experience with zero glitches.
@@ -96,7 +97,7 @@ const Process = () => {
           {/* Card 6 */}
           <div className='bg-black text-white px-4 py-8 w-full h-[250px] flex items-center justify-center max-w-96'>
             <div className='flex gap-4 items-center'>
-              <h3 className='font-bold text-[22px] lg:text-[24px]'>06</h3>
+              <h3 className='font-bold text-[22px] lg:text-[24px]'><CiBookmarkCheck /></h3>
               <div className='flex flex-col'>
                 <h3 className='font-bold text-[22px] lg:text-[24px]'><span className='text-red-500'>Post-Launch Suppor,</span> & Feedback</h3>
                 <p className='text-[14px] lg:text-[16px]'>Post-launch, our team is available for support, feedback collection, and updates. We’re committed to maximizing your ebook’s success beyond creation & publication.
