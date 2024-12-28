@@ -8,6 +8,9 @@ import FAQ from '@/components/serviceComponents/sixthsection'
 // import SixthSection from '@/components/aboutComponents/SixthSection'
 import Contact from '@/components/serviceComponents/seventhSection'
 import React from 'react'
+import Discount from '@/components/serviceComponents/DIscount'
+import Process from '@/components/serviceComponents/Process'
+import Migrate from '@/components/serviceComponents/Migrate'
 
 export const metadata = {
   slug: 'service',
@@ -58,7 +61,10 @@ const About = () => {
     <div>
       
       <Hero/>
+      <Discount/>
       <Order/>
+      <Process/>
+      <Migrate/>
       <Ghost/>
       <AboutFeatures/>
       <Testimonial/>

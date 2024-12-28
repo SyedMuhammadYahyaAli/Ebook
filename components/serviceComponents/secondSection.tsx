@@ -4,7 +4,7 @@ import { FaArrowRightLong } from 'react-icons/fa6';
 
 const Order = () => {
   return (
-    <section className='flex flex-col md:flex-row lg:px-2 xl:px-20 gap-8 md:items-center md:text-left bg-black text-white'>
+    <section className='flex flex-col md:flex-row lg:px-2 xl:px-20 gap-8 md:items-center md:text-left bg-gray-800 text-white'>
       
       <div className='lg:w-1/2 sm:w-full space-y-5 px-10 py-10 max-w-[1200px]'>
         <h2 className='text-[26px] lg:text-[32px] font-bold'>Ascend through the Power of Executive <span className='text-red-500'>E-book Creation</span> with bookmarketeers.com</h2>
